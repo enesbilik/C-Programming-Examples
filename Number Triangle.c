@@ -1,6 +1,5 @@
-#include <stdio.h>
 /*
-n = 4 için şeklinde çıktı veren kod
+n = 4 için şekildeki gibi çıktı veren kod
           1    
        2     3    
     4     5     6    
@@ -8,6 +7,7 @@ n = 4 için şeklinde çıktı veren kod
 
 */
 
+#include <stdio.h>
 int main() {
 	
 	int i,j,n;
