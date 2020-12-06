@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// Girilen bir noktanın cemberin üzerinde mi içinde mi dışında mı oldugunu söyleyen kod
+
 int main() {
 	float x,y,uzaklik;
 	
