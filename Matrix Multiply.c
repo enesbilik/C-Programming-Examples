@@ -3,7 +3,7 @@
 int main() {
 
     int m, n, i, j, a, b, temp, k;
-    //Kullanici dogruboyut degeri girinceye kadar calisan dongu
+    //Kullanici dogru boyut degeri girinceye kadar calisan dongu
     do {
         printf("\nLutfen matris carpimina uygun boyut giriniz:\n");
         printf("Birinci matrisin boyutunu giriniz: (m n)\n");
