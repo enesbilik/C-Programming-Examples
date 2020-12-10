@@ -20,10 +20,10 @@ int main() {
 	for (i=1; i<=n; i++) {
 		
 		for (j=0; j<b; j++) 
-			printf("   ");
+			printf("    ");
 		
 		for (j=0; j<i; j++,sayi++)
-			printf("%2d    ",sayi);
+			printf("%8d",sayi);
 			
 		b--;
 		printf("\n");
