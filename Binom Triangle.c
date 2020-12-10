@@ -32,15 +32,14 @@ int main(){
 		}
 		printf("\n");
 		space--;
-	}	
-	
+	}		
 	
 	return 0;
 }
 
-
 double fact(int n){
-	double result = 1, i;
+	double result = 1;
+	int i;
 	
 	for (i=1; i<=n; i++)
 		result *= i;
